@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+label input {
+  box-sizing: border-box;
+  background: rgba(0, 0, 255, 0.151);
+  padding: 0.61em;
+  width: 100%;
+  border-radius: 1rem;
+}
+label {
+  margin: 0.5em auto;
+}
